@@ -1,7 +1,9 @@
 ### Hey 👋
 
 I'm Kevin, a 2B Computer Science student at the University of Waterloo. Previously, I've interned at SAP Canada and The Co-operators. 
+
 I'm currently looking for Fall 2021 software engineering internship opportunities.
+
 Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume/resume.pdf) or contact me at [k24ding@uwaterloo.ca](mailto:k24ding@uwaterloo.ca)
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticaltofu)](https://github.com/anuraghazra/github-readme-stats)
