@@ -8,7 +8,7 @@ Previously,
 
 Currently, I'm looking for Spring 2022 software engineering internship opportunities.
 
-Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume/resume.pdf) or contact me at k24ding@uwaterloo.ca
+Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume.pdf) or contact me at k24ding@uwaterloo.ca
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticaltofu)](https://github.com/anuraghazra/github-readme-stats)
 
