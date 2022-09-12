@@ -1,12 +1,13 @@
 ### Hey 👋
 
-I'm Kevin, a 3A Computer Science student at the University of Waterloo.  
+I'm Kevin, a 3B Computer Science student at the University of Waterloo.  
 Previously,
+- Full Stack Software Engineering Intern @ [Gem](https://www.gem.com/)
 - Backend Software Engineering intern @ [Snapcommerce](https://www.snapcommerce.com/)
 - Full Stack Software Developer intern @ [The Co-operators](https://www.cooperators.ca/)
 - Quality Engineering Automation Developer intern @ [SAP Canada](https://www.sap.com/canada/index.html)
 
-Currently, I'm looking for Spring 2022 software engineering internship opportunities.
+Currently, I'm looking for Winter 2023 software engineering internship opportunities.
 
 Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume.pdf) or contact me at k24ding@uwaterloo.ca
 
