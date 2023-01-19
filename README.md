@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Kevin, a 4A Computer Science student at the University of Waterloo. Currently, I'm a Software Engineering intern @ [Newfront](https://www.newfront.com/) 
+I'm Kevin, a 4A Computer Science student at the University of Waterloo. Currently, I'm a Software Engineering intern @ [Newfront](https://www.newfront.com/)  
 Previously,
 - Full Stack Software Engineering intern @ [Gem](https://www.gem.com/)
 - Backend Software Engineering intern @ [Snapcommerce](https://www.snapcommerce.com/)
