@@ -1,16 +1,16 @@
 ### Hey 👋
 
-I'm Kevin, a 4A Computer Science student at the University of Waterloo.  
-Currently, I'm a Software Engineering intern @ [Newfront](https://www.newfront.com/).  
+I'm Kevin, a 4A Computer Science student at the University of Waterloo. I'm a software engineering intern at [Newfront](https://www.newfront.com/).  
+
 Previously,
-- Full Stack Software Engineering intern @ [Gem](https://www.gem.com/)
-- Backend Software Engineering intern @ [Snapcommerce](https://www.snapcommerce.com/)
-- Full Stack Software Developer intern @ [The Co-operators](https://www.cooperators.ca/)
-- Quality Engineering Automation Developer intern @ [SAP Canada](https://www.sap.com/canada/index.html)
+- Full Stack Software Engineering Intern @ [Gem](https://www.gem.com/)
+- Backend Software Engineering Intern @ [Snapcommerce](https://www.snapcommerce.com/)
+- Full Stack Software Developer Intern @ [The Co-operators](https://www.cooperators.ca/)
+- Quality Engineering Automation Developer Intern @ [SAP Canada](https://www.sap.com/canada/index.html)
 
-I'm looking for Summer/Fall 2023 software engineering internship opportunities.
+Currently, I'm looking for Summer/Fall 2023 software engineering internship opportunities.
 
-Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume.pdf) or contact me at k24ding@uwaterloo.ca
+Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume/resume.pdf) or contact me at k24ding@uwaterloo.ca
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticaltofu)](https://github.com/anuraghazra/github-readme-stats)
 
