@@ -12,7 +12,7 @@ Currently, I'm looking for Summer/Fall 2023 software engineering internship oppo
 
 Feel free to take a look at my resume [here](https://tacticaltofu.github.io/resume/resume.pdf) or contact me at k24ding@uwaterloo.ca
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticaltofu)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticaltofu)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **tacticaltofu/tacticaltofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
